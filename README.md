@@ -9,3 +9,8 @@
 - https://getcssscan.com/css-box-shadow-examples
 - https://fontawesome.com/
 - https://unsplash.com/
+- https://ohmyz.sh/
+- https://brew.sh/
+- https://www.freecodecamp.org/news/
+- https://github.com/ohmyzsh/ohmyzsh/wiki/Themes
+- https://stackoverflow.com/questions/44435697/vscode-change-default-terminal
